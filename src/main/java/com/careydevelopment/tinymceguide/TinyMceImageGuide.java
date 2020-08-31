@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TinyMceGuide {
+public class TinyMceImageGuide {
 
     public static void main(String[] args) {
-        SpringApplication.run(TinyMceGuide.class,args);
+        SpringApplication.run(TinyMceImageGuide.class,args);
     }
 }
